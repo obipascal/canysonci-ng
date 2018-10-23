@@ -1,0 +1,24 @@
+#iframe-right{
+    overflow:auto;
+    width: 170px;
+    height:250px;
+    background:#057a5e;float:left;
+    left:200px;top:0;padding:3px;
+}
+#iframe-left{
+    overflow:auto;width: 300px;
+    height:250px;
+    background:#057a5e;float:left;
+    left:200px;top:0;padding:3px;
+}
+#iframe-tv{
+    overflow:auto;width:660px;height:500px;
+    background:rgb(255,255,255);float:left;
+    left:200px;top:0;padding:3px;
+}
+#h2-tv{
+    color: white; font-family: Time New Roman;
+    border: solid red; text-align: center; font-weight: 800;
+    text-shadow: 8px -6px 8px red;
+    background-color: black;
+}
